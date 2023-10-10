@@ -9,7 +9,7 @@ sudo apt install git
 #brew install packs
 brew update && brew install azure-cli
 brew install terraform
-brew install aztfy
+brew install aztfexport
 brew install kubectl
 brew install helm
 brew install jandedobbeleer/oh-my-posh/oh-my-posh
