@@ -44,4 +44,4 @@ Happy coding! 💻✨
 
 ![Fedora Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg)
 ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
-![CNCF Logo](https://upload.wikimedia.org/wikipedia/commons/7/71/CloudNativeComputingFoundation-logo.png)
+![CNCF Logo](https://www.cncf.io/wp-content/uploads/2022/07/cncf-color-bg.svg)
